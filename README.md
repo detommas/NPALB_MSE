@@ -37,7 +37,7 @@ version 4.1.3, and r4ss package 1.45.3.
     *outlist.txt*.
 -   Once the code for 1 iteration works, you can try running using the *MSE2_prll_multi.R* to run multiple iterations in parallel
 -   The table below outlines the wrapper code and main function for running HCRs with other types of management controls than TAC
-    or scenarios
+    or with other productivity scenarios.
 
     Harvest Strategy | Productivity Scenario | Wrapper Code | MSE Loop Function
     --- | --- | --- | ---
