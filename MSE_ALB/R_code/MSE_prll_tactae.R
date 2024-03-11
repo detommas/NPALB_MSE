@@ -79,11 +79,11 @@ bl = c(0.2,0.14,0.077,0.14,0.077,0.14,0.077,0.077,0.2,0.14,0.077,0.14,0.077,0.14
 tm = c(0.25,0.25,0,0.25,0,0.25,0,0,0.5,0.5,0.25,0.5,0.25,0.5,0.25,0.25)
 pr = c(0.8,rep(0.9,7),0.8,rep(0.9,7))
 
-  hcrnum=hn[h]
-  Bthr = bt[hn[h]] 
-  Blim = bl[hn[h]]
-  Tmin = tm[hn[h]]
-  pl = pr[hn[h]]
+  hcrnum=hn
+  Bthr = bt[hn] 
+  Blim = bl[hn]
+  Tmin = tm[hn]
+  pl = pr[hn]
   
   #Run the MSE code for specified number of iterations
   #rdev1 is the last recruitment deviation from year 2015 in the 2017 assessment model
