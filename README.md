@@ -20,6 +20,8 @@ version 4.1.3, and r4ss package 1.45.3.
     HCR (with forecast file), and scenario folders need to be present before starting the simulation.
     The numbered directory has the following format
     *harvest strategy/hcr/scenario/iteration/time step*
+-   Since empty directories are hidden in Github, you need to create a scenario folder under the
+    *harvest strategy/hcr/* directory you want to run, where there is an associated forecast file   
 -   This steps will first help you run simulations with TAC control.
     Change paths at the start of *MSE2_prll_multi.R* and *NPALB_MSE2_hs32_tvry.R* to
     reflect the path where the MSE_ALB folder is on your computer.
