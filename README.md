@@ -2,7 +2,7 @@
 
 This repository contains the code to run the management strategy
 evaluation (MSE) for North Pacific Albacore Tuna (NPALB) that was run by the ISC NPALB working group. 
-The report outlining details of the modeling framework and results is available at
+The report outlining details of the modeling framework and results is available at <https://isc.fra.go.jp/pdf/ISC21/ISC21_ANNEX11_Report_of_the_North_Pacific_ALBACORE_MSE.pdf>
 The repository is intended to be a code sharing and collaboration platform for all the
 members of the ISC NPALB working group.
 
